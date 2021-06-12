@@ -1,0 +1,13 @@
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Delegates Actions\Kudvenkat\Lambda\LambdaExpressions\Lambda\bin\Debug\netcoreapp3.1\ActionsAndFuncs.exe
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Delegates Actions\Kudvenkat\Lambda\LambdaExpressions\Lambda\bin\Debug\netcoreapp3.1\ActionsAndFuncs.deps.json
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Delegates Actions\Kudvenkat\Lambda\LambdaExpressions\Lambda\bin\Debug\netcoreapp3.1\ActionsAndFuncs.runtimeconfig.json
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Delegates Actions\Kudvenkat\Lambda\LambdaExpressions\Lambda\bin\Debug\netcoreapp3.1\ActionsAndFuncs.runtimeconfig.dev.json
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Delegates Actions\Kudvenkat\Lambda\LambdaExpressions\Lambda\bin\Debug\netcoreapp3.1\ActionsAndFuncs.dll
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Delegates Actions\Kudvenkat\Lambda\LambdaExpressions\Lambda\bin\Debug\netcoreapp3.1\ActionsAndFuncs.pdb
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Delegates Actions\Kudvenkat\Lambda\LambdaExpressions\Lambda\obj\Debug\netcoreapp3.1\ActionsAndFuncs.csproj.AssemblyReference.cache
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Delegates Actions\Kudvenkat\Lambda\LambdaExpressions\Lambda\obj\Debug\netcoreapp3.1\ActionsAndFuncs.AssemblyInfoInputs.cache
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Delegates Actions\Kudvenkat\Lambda\LambdaExpressions\Lambda\obj\Debug\netcoreapp3.1\ActionsAndFuncs.AssemblyInfo.cs
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Delegates Actions\Kudvenkat\Lambda\LambdaExpressions\Lambda\obj\Debug\netcoreapp3.1\ActionsAndFuncs.csproj.CoreCompileInputs.cache
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Delegates Actions\Kudvenkat\Lambda\LambdaExpressions\Lambda\obj\Debug\netcoreapp3.1\ActionsAndFuncs.dll
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Delegates Actions\Kudvenkat\Lambda\LambdaExpressions\Lambda\obj\Debug\netcoreapp3.1\ActionsAndFuncs.pdb
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Delegates Actions\Kudvenkat\Lambda\LambdaExpressions\Lambda\obj\Debug\netcoreapp3.1\ActionsAndFuncs.genruntimeconfig.cache

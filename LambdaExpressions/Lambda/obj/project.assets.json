@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pc-cantelli\\Documents\\Programação 2018\\C#\\Delegates Actions\\Kudvenkat\\Lambda\\LambdaExpressions\\Lambda\\Lambda.csproj",
-      "projectName": "Lambda",
-      "projectPath": "C:\\Users\\pc-cantelli\\Documents\\Programação 2018\\C#\\Delegates Actions\\Kudvenkat\\Lambda\\LambdaExpressions\\Lambda\\Lambda.csproj",
+      "projectUniqueName": "C:\\Users\\pc-cantelli\\Documents\\Programação 2018\\C#\\Delegates Actions\\Kudvenkat\\Lambda\\LambdaExpressions\\Lambda\\ActionsAndFuncs.csproj",
+      "projectName": "ActionsAndFuncs",
+      "projectPath": "C:\\Users\\pc-cantelli\\Documents\\Programação 2018\\C#\\Delegates Actions\\Kudvenkat\\Lambda\\LambdaExpressions\\Lambda\\ActionsAndFuncs.csproj",
       "packagesPath": "C:\\Users\\pc-cantelli\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\pc-cantelli\\Documents\\Programação 2018\\C#\\Delegates Actions\\Kudvenkat\\Lambda\\LambdaExpressions\\Lambda\\obj\\",
       "projectStyle": "PackageReference",
