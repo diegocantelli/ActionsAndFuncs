@@ -9,7 +9,10 @@ namespace Lambda
         static void Main(string[] args)
         {
             // Passa a referência do método
-            CalculaInteiros(SomaInteiros, 1, 1);
+            ActionCalculaInteiros(ActionSomaInteiros, 1, 1);
+
+            var soma = FuncCalculaInteiros(FuncSomaInteiros, 2, 2);
+            Console.WriteLine("Soma utilizando Func: " + soma);
             Console.ReadLine();
         }
 
@@ -17,7 +20,7 @@ namespace Lambda
         // Definindo um método que receba uma action genérica
         // os parâmetros genérios da action devem ser os mesmos e na mesma quantidade do método que será passado como parâmetro
         // para o método que recebe a Action
-        public static void CalculaInteiros(Action<int, int> Calcula, int num1, int num2)
+        public static void ActionCalculaInteiros(Action<int, int> Calcula, int num1, int num2)
         {
             // Irá executar o método que foi passado por parâmetros
             // Como existem dois parâmetros genéricos definidos na Action, deve ser passado dois parâmetros para a chamada
@@ -25,9 +28,20 @@ namespace Lambda
             Calcula(num1, num2);
         }
 
-        public static void SomaInteiros(int num1, int num2)
+        public static int FuncCalculaInteiros(Func<int, int, int> Calcula, int num1, int num2)
+        {
+            return Calcula(num1, num2);
+        }
+
+        public static void ActionSomaInteiros(int num1, int num2)
         {
             Console.WriteLine(num1 + num2);
+        }
+
+        // A assinatura desse método deve ser igual a assinatura da Func no método onde ela será recebida
+        public static int FuncSomaInteiros(int num1, int num2)
+        {
+            return num1 + num2;
         }
     }
 
